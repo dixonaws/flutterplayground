@@ -1,6 +1,6 @@
 # flutterplayground
 
-A new Flutter project.
+A basic Flutter project.
 
 ## Getting Started
 
