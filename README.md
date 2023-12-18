@@ -1,6 +1,6 @@
 # flutterplayground
 
-A basic Flutter project with build for Amplify.
+A basic Flutter project with build for Amplify, even though Codebuild is a pain.
 
 ## Getting Started
 
