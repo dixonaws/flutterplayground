@@ -1,6 +1,6 @@
 # flutterplayground
 
-A basic Flutter project with a custom build image
+A basic Flutter project 
 
 ## Getting Started
 
